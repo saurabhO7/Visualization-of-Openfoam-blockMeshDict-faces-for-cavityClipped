@@ -1,0 +1,2 @@
+# Visualization-of-Openfoam-blockMeshDict-faces-for-cavityClipped
+Hello all  I have written a python code to visualize the way OPENFOAM defines faces and in which direction for  cavityCLipped (blockMeshDict file)  just simply change the values(vertices) in last commandline i.e. plotter(0,8,10,2) simply change the vertices values which you want to see separated by comma.  The plotter function  is taking 4 values of vertices (note: mention the vertices in the order as shown in openfoam otherwise it may not give the result of visualization in terms of OpenFOAM convention.
